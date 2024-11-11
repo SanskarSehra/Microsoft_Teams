@@ -29,7 +29,7 @@ This is a simple and responsive Web Application which offer you to create a vide
 ### Installing
 After installing node clone the repo by using git
 ```
-$ git clone https://github.com/Sushmi373/Engage-Microsoft21.git
+$ git clone https://github.com/SanskarSehra/Microsoft_Teams.git
 ```
 Or you can download the zip file.
 
@@ -54,8 +54,6 @@ node server.ja
 ```
 
 ### Agile Methodology
-
-link:https://docs.google.com/presentation/d/1bmvcs0rVSt6HCECOFxkEI6HAoXLtjlIP/edit?usp=drivesdk&ouid=116738520215379039061&rtpof=true&sd=true
 
 * Sprint 1:Planned and designed the Overview of the project and explored Technologies and started building the web site.
 * Sprint 2:Worked on minimum feature,worked on the other features and started working on login page.
