@@ -43,6 +43,14 @@ I used [Nodemon] for automatically restart the server as a dev dependency (optio
 ```
 $ npm i --sav-dev nodemon
 ```
+
+### Agile Methodology
+
+* Sprint 1:Planned and designed the Overview of the project and explored Technologies and started building the web site.
+* Sprint 2:Worked on minimum feature,worked on the other features and started working on login page.
+* Sprint 3:Added some more features,completed the login page and got feedback from my Mentors ,seniors and friends.
+* Sprint 4:Cleared the bugs,worked a little more on the frontend part and again got the feedback.
+
 ### Running the app
 If you install nodemon the you can use. (devStart script is already added to the package.json)
 ```
@@ -53,12 +61,7 @@ or
 node server.ja
 ```
 
-### Agile Methodology
 
-* Sprint 1:Planned and designed the Overview of the project and explored Technologies and started building the web site.
-* Sprint 2:Worked on minimum feature,worked on the other features and started working on login page.
-* Sprint 3:Added some more features,completed the login page and got feedback from my Mentors ,seniors and friends.
-* Sprint 4:Cleared the bugs,worked a little more on the frontend part and again got the feedback.
 
 
 

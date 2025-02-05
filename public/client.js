@@ -9,6 +9,7 @@ const peer = new Peer(undefined, {
 });
 const allpeers = {};
 
+//adding user
 myvideo.classList.add("user-video");
 // Muting our own audio so that we can't hear our own audio
 myvideo.muted = true;
